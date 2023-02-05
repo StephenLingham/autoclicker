@@ -1,3 +1,5 @@
+# Script to automate clicking in clicker games
+
 import pyautogui as gui
 import keyboard
 

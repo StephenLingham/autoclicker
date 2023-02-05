@@ -1,3 +1,5 @@
+# Script to automate jumping in Valheim
+
 import keyboard
 import time
 
